@@ -1,4 +1,5 @@
 # Statistics Homework Challenges
+- Link to Course: https://www.udemy.com/data-statistics/
 
 ## Section 1: Distributions
 
