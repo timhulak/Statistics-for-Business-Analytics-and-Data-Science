@@ -2,6 +2,7 @@
 - Link to Course: https://www.udemy.com/data-statistics/
 
 ## Section 1: Distributions
+## Part 1:
 
 #### You are an Analyst working for a high-end clothes design boutique. 
 #### The company is developing a new line of clothes for very tall people. Your team is analyzing the viability of the project from a sales perspective and your manager has asked you to assist with some input variables to help test the financial forecast.
